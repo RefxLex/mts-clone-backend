@@ -1,0 +1,2 @@
+INSERT INTO tarifs (name, description, gigabytes, minutes, television, speed, price) VALUES ('Тариф № 1', 'Просто 3 в 1: мобильная связь, домашний интернет и ТВ', 30, 1200, 232, 100, 690);
+INSERT INTO tarifs (name, description, gigabytes, minutes, television, speed, price) VALUES ('Тариф № 3', 'Домашний интернет и мобильная связь с удобным пакетом ГБ', 30, 0, 0, 100, 500);
